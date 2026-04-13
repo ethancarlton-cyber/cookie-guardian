@@ -1,0 +1,38 @@
+# Cookie Guardian
+
+> Chrome extension that automatically deletes cookies when you close a tab. Privacy protection without the hassle.
+
+## What It Is
+Cookie Guardian is a browser extension that auto-deletes cookies on tab close. It is the only Manifest V3 auto-delete cookie extension on the Chrome Web Store, serving as the modern replacement for Cookie AutoDelete (which was removed due to MV2 deprecation).
+
+## Key Stats
+- 2,800+ active users
+- 37 reviews
+- Featured badge on Chrome Web Store
+- Free core functionality, $3.49 one-time premium upgrade
+
+## Browser Support
+- Google Chrome
+- Brave
+- Microsoft Edge
+- Opera
+- Vivaldi
+
+## Privacy
+- Zero data collection
+- All data stored locally on the user's device
+- No analytics, no telemetry, no remote servers
+
+## Core Features
+- Automatic cookie deletion on tab close
+- Whitelisting for trusted sites
+- Domain-level and subdomain control
+- Cookie activity notifications
+- Import/export settings
+- Premium: advanced rules, priority support
+
+## Links
+- Chrome Web Store: https://chromewebstore.google.com/detail/cookie-guardian-auto-cooki/ilafhnkgfpgmjlkbpedmegbhancnfenf
+- GitHub: https://github.com/ethancarlton-cyber/cookie-guardian
+- Website: https://ethancarlton-cyber.github.io/cookie-guardian/
+- Privacy Policy: https://ethancarlton-cyber.github.io/cookie-guardian/PRIVACY.html
